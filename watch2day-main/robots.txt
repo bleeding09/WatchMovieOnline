@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /private/
-Allow: /
-Sitemap: https://bleeding09.github.io/WatchMovieOnline/sitemap.xml
