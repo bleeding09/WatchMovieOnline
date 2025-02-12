@@ -1,6 +1,4 @@
-User-agent: *  
+User-agent: *
 Disallow: /private/
-Disallow: /path/to/scripts.js
-Disallow: /path/to/styles.css
-Allow: /public/  
-Sitemap: https://watch2day.online/sitemap.xml
+Allow: /
+Sitemap: https://bleeding09.github.io/WatchMovieOnline/sitemap.xml
